@@ -2,4 +2,4 @@
 
 This project twas creted by shradha didi
 
-created by ADitya verma
+created by Aditya verma
